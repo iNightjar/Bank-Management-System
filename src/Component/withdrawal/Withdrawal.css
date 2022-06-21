@@ -1,0 +1,120 @@
+.body-withdraw {
+    font-family: "Poppins", sans-serif;
+    background-image: url(../withdrawal/image.jpg);
+    position: relative;
+    background-size: cover;
+    z-index: 1;
+}
+
+.all {
+    padding: 30px;
+    margin: 30px;
+    background-color: rgba(255, 255, 255, 0.493);
+    display: block;
+    z-index: 2;
+}
+
+.title {
+    width: 100%;
+    display: inline-flex;
+    list-style: none;
+}
+
+.title .title_name {
+    color: #b88d8d;
+    font-size: 38px;
+    font-weight: bold;
+    width: 50%;
+    padding: 50px;
+}
+
+.title .title_name p {
+    width: 100%;
+    padding: 50px;
+}
+
+.title .title_img {
+    width: 50%;
+    padding: 70px;
+}
+
+.name {
+    border-color: #d7d8e1;
+    padding: 40px;
+}
+
+.name p {
+    color: #997878;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: left;
+    margin-left: 35px;
+}
+
+.contact input {
+    border: 2px boild rgba(65, 60, 60, 0.726);
+    border-radius: 15px;
+    color: rgba(65, 60, 60, 0.699);
+    height: 50px;
+    width: 420px;
+    line-height: 10px;
+    margin-left: 20px;
+    box-sizing: border-box;
+}
+
+.contact .row4 {
+    margin: 20px;
+}
+
+.row1 {
+    display: inline-flex;
+    list-style: none;
+}
+
+.row1 .fname {
+    width: 50%;
+    padding: 55px;
+}
+
+.row1 .lname {
+    width: 50%;
+    padding: 55px;
+}
+
+.row2 {
+    display: inline-flex;
+    list-style: none;
+}
+
+.row2 .Account_No {
+    width: 50%;
+    padding: 55px;
+}
+
+.row2 .Pass {
+    width: 50%;
+    padding: 55px;
+}
+
+.row3 {
+    display: inline-flex;
+    list-style: none;
+}
+
+.row3 .money {
+    width: 50%;
+    padding: 55px;
+}
+
+.row3 .money2 {
+    width: 50%;
+    padding: 55px;
+}
+
+.row4 button {
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+    margin: 20px;
+    text-align: center;
+}
