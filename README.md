@@ -7,7 +7,7 @@
 
 <br>
 
-## Run App In development Mode
+## Run App In Development Mode
 
 
 ```
